@@ -1,0 +1,16 @@
+{
+  "name": "git-joy",
+  "version": "0.1.0",
+  "description": "npm package management experiment #3",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTrauco/git-joy.git"
+  },
+  "author": "Chris Trauco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTrauco/git-joy/issues"
+  },
+  "homepage": "https://github.com/iTrauco/git-joy#readme"
+}
